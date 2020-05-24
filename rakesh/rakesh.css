@@ -1,0 +1,17 @@
+body{
+     border:5px solid yellow;
+    font-size: 30px;
+    
+background-color:palegreen;
+
+}
+     h1{color:darkred}
+     h2{color:darkorange}  
+
+pre{
+   text-align: center;
+    
+} 
+section{
+    font-size: 35px;
+}
